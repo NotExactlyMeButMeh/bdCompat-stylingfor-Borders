@@ -1,0 +1,30 @@
+.sidebar-2K8pFh.hideElement, .sidebar-2K8pFh {
+	transition: 0s;
+}
+.sidebar-2K8pFh.hideElement .container-3baos1 {
+	background-color: var(--userModal-color);
+	height: 85px;
+	max-width: 222px;
+	min-width: 182px;
+	border-left: 2px solid var(--background-floating);
+	border-top: none !important;
+}
+.sidebar-2K8pFh .container-3baos1 {
+	transition: 0.2s;
+}
+.sidebar-2K8pFh.hideElement .powercord-spotify {
+	display: none;
+}
+.form-2fGMdU {
+	transition: 0s !important;
+}
+.form-2fGMdU::before {
+	background-color: var(--userModal-color) !important;
+	height: 100%;
+	border-top: 2px solid var(--background-floating);
+	border-right: 2px solid var(--background-floating);
+	width: 238px;
+	position: absolute;
+	left: -240px;
+	top: -2px;
+}

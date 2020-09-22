@@ -1,0 +1,9 @@
+{
+    "name": "bdCompat styling for True Dark",
+    "description": "Pair with True Dark theme.",
+    "version": "1.0.0",
+    "author": "Winston#0441",
+    "theme": "index.scss",
+    "consent": "false",
+    "license": "MIT"
+}
