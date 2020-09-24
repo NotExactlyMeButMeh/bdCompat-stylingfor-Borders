@@ -1,6 +1,6 @@
 {
-    "name": "bdCompat styling for True Dark",
-    "description": "Pair with True Dark theme.",
+    "name": "bdCompat styling for Borders",
+    "description": "Pair with Borders theme.",
     "version": "1.0.0",
     "author": "Winston#0441",
     "theme": "index.scss",
